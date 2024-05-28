@@ -9,6 +9,8 @@
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
   <link rel="stylesheet" href="app.css">
 
   <title>Wahri Harma</title>
@@ -25,24 +27,15 @@
     <!-- Batas Navbar -->
 
     <section class="container-fluid">
+
       <div class="row">
-        <div class="col-lg-6">
-          <div class="p-3">
-            <img src="" class="img-fluid" alt="">
-          </div>
-        </div>
 
         <div class="col-lg-6 position-relative">
           <div class="col col-md-12 position-relative top-50 start-50 translate-middle">
             <div class="row">
-              <h3 class="text-white"> Hello...</h2>
-                <p class="h6 text-white">I am a professional</p>
-                <h1 class="text-white">WEB DEVELOPER</h1>
-                <p class="text-white">
-                  I am a web developer. My technical skills include the programming languages HTML, CSS, JavaScript, and
-                  PHP, as well as the use of frameworks such as React.js and Laravel. I also have expertise in MySQL and
-                  MongoDB databases.
-                </p>
+              <h3 class="h3 text-white">WAHRI</h2>
+                <h1 class="h1 text-white">HARMA</h1>
+                <h6 class="h6 text-white">WEB DEVELOPER</h6>
             </div>
             <div class="text-align-right">
               <button type="button" class="btn btn-outline-light">Resume</button>
@@ -50,6 +43,33 @@
             </div>
           </div>
         </div>
+
+        <div class="col-lg-6">
+          <div class="p-3">
+            <img src="" class="img-fluid" alt="">
+          </div>
+        </div>
+
+        <a class="nav-link" href="#" target="_blank">
+          <i class="bi bi-instagram"></i>
+        </a>
+
+        <a class="nav-link" href="#" target="_blank">
+          <i class="bi bi-facebook"></i>
+        </a>
+
+        <a class="nav-link" href="#" target="_blank">
+          <i class="bi bi-linkedin"></i>
+        </a>
+
+        <a class="nav-link" href="#" target="_blank">
+          <i class="bi bi-whatsapp"></i>
+        </a>
+
+        <a class="nav-link" href="#" target="_blank">
+          <i class="bi bi-tiktok"></i>
+        </a>
+
       </div>
 
     </section>

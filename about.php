@@ -9,6 +9,8 @@
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
   <link rel="stylesheet" href="app.css">
 
   <title>Wahri Harma</title>
@@ -39,11 +41,9 @@
                 MongoDB databases.
               </p>
               <br>
+              <p>
               <p>Kabupaten Lima Puluh Kota</p>
               <p>Sumatera Barat, indonesia</p>
-              <div class="d-grid gap-2 d-md-block">
-                <button type="button" class="btn btn-outline-light">Services</button>
-              </div>
             </div>
           </div>
         </div>
