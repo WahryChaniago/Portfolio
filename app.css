@@ -1,9 +1,9 @@
-img {
-    width: 25rem;
-    height: 30rem;
+body {
+  background: linear-gradient(to Left, #000000, #020869, #000000);
+  color: #282828;
 }
 
-button:hover {
-    cursor: pointer;
-    background-color: aqua;
+.button:hover {
+  cursor: pointer;
+  color: rgb(4, 0, 255);
 }
