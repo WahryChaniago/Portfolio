@@ -1,5 +1,5 @@
 body {
-  background-image: url('Images/Bg.jpg');
+  background-image: url("Images/Bg.jpg");
   background-size: cover;
   display: flex;
   /* background: linear-gradient(to Left, #000000, #17171a, #000000);
@@ -11,7 +11,7 @@ body {
   color: rgb(4, 0, 255);
 }
 
-.jumbotron {
-  background-position: center;
+.h6 {
+  text-decoration: none;
   color: white;
 }
